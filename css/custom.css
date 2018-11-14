@@ -26,8 +26,15 @@ img {
   height: auto;
 }
 
-.btn-more {
+.btn-more{
   justify-content: center;
   text-align: center;
   border-color: #17a2b8;
+}
+
+.project {
+  justify-content: center;
+  text-align: center;
+  border-color: #17a2b8;
+  margin-bottom: 2%;
 }
