@@ -7,6 +7,10 @@ a {
   color: #1ab6cf;
 }
 
+body {
+  margin: 1%;
+}
+
   .tag-line {
     font-size: .75rem;
   }
@@ -36,5 +40,5 @@ img {
   justify-content: center;
   text-align: center;
   border-color: #17a2b8;
-  margin-bottom: 2%;
+  margin: 5%;
 }
